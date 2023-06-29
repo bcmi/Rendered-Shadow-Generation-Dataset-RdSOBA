@@ -1,6 +1,6 @@
 # Rendered-Shadow-Generation-Dataset-RdSOBA
 
-**RdHarmony** is a large-scale Rendered Shadow Generation dataset containing object-shadow pairs like [**DESOBA**](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA) dataset with 788 3D foreground objects, which is useful for supervised shadow generation methods.
+**RdSOBA** is a large-scale Rendered Shadow Generation dataset containing object-shadow pairs like [**DESOBA**](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA) dataset with 788 3D foreground objects, which is useful for supervised shadow generation methods.
 
 <img src='examples/dataset.png' align="center" width=1024>
 
