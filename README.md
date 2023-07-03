@@ -4,6 +4,12 @@
 
 <img src='examples/dataset.png' align="center" width=1024>
 
+For more details, please refer to the following research paper:
+
+> **RdSOBA: Rendered Shadow-Object Association Dataset**  [[arXiv]](https://arxiv.org/pdf/2306.17358.pdf)<br>
+>
+> Xinhao Tao†, Junyan Cao†, Li Niu
+
 ## Highlights
 
 - 788 3D foreground objects
