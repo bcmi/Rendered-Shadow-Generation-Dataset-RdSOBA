@@ -39,3 +39,8 @@ We place $K$ 3D objects and toggle their visibility one by one. For the $k$-th o
 Finally, we render an image $I_g$ with all object shadows. Designating one object as foreground, we create foreground and background masks for objects and shadows. We calculate $I_c$ using these masks, obtaining a tuple $(I_c,M_{fo},M_{fs},M_{bo},M_{bs},I_g)$ in the DESOBA dataset format.
 
 After filtering out low-quality tuples, we have 280,000 tuples left.
+
+## Other Resources
+
++ [Awesome-Object-Shadow-Generation](https://github.com/bcmi/Awesome-Object-Shadow-Generation)
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
