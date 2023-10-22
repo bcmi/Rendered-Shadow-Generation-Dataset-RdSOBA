@@ -22,7 +22,7 @@ For more details, please refer to the following research paper:
 ## Downloads
 We provide the data corresponding to the first two 3D scenes. The relevant links are as follows: [[Baidu_Cloud]](https://pan.baidu.com/s/1R-qy6qr4pxmMyS0d_28hGA) (access code: zu59) [[OneDrive]](https://1drv.ms/u/s!AoAsEmY10BjHgXBSaIRknROeo_i0?e=prdugm)
 
-If you are interested in our full dataset, please feel free to contact us via [Email](taoxinhao@sjtu.edu.cn).
+If you are interested in our full dataset, please feel free to contact ustcnewly@sjtu.edu.cn.
 
 ## Details
 
