@@ -1,3 +1,6 @@
+# ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png) Our lab has released the image composition toolbox [libcom](https://github.com/bcmi/libcom), which integrates all the functions related to image composition. The toolbox would be continuously upgraded. Welcome to visit and try :-)
+---
+
 # Rendered-Shadow-Generation-Dataset-RdSOBA
 
 **RdSOBA** is a large-scale Rendered Shadow Generation dataset containing object-shadow pairs like [**DESOBA**](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA) dataset with 788 3D foreground objects, which is useful for supervised shadow generation methods.
