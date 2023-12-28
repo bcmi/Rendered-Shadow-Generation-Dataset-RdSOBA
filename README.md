@@ -23,9 +23,8 @@ For more details, please refer to the following research paper:
 - 20 viewpoints(2D scene) for each 3D scene
 
 ## Downloads
-We provide the data corresponding to the first two 3D scenes. The relevant links are as follows: [[Baidu_Cloud]](https://pan.baidu.com/s/1R-qy6qr4pxmMyS0d_28hGA) (access code: zu59) [[OneDrive]](https://1drv.ms/u/s!AoAsEmY10BjHgXBSaIRknROeo_i0?e=prdugm)
-
-If you are interested in our full dataset, please feel free to contact ustcnewly@sjtu.edu.cn.
+We provide the full dataset. The relevant links are as follows: [[Baidu_Cloud]](https://pan.baidu.com/s/1ZGQJLUGGDoA88MhV2T5sag) (access code: ck81)
+If you have any questions, please feel free to contact us.
 
 ## Details
 
@@ -41,7 +40,7 @@ We place $K$ 3D objects and toggle their visibility one by one. For the $k$-th o
 
 Finally, we render an image $I_g$ with all object shadows. Designating one object as foreground, we create foreground and background masks for objects and shadows. We calculate $I_c$ using these masks, obtaining a tuple $(I_c,M_{fo},M_{fs},M_{bo},M_{bs},I_g)$ in the DESOBA dataset format.
 
-After filtering out low-quality tuples, we have 280,000 tuples left.
+After filtering out low-quality tuples, we have 280,000 1080p tuples left. For details such as how the images are named, please check the README.txt file in above link.
 
 ## Other Resources
 
