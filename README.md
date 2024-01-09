@@ -4,7 +4,7 @@
 # Rendered-Shadow-Generation-Dataset-RdSOBA
 
 We release the rendered shadow dataset used in the following paper:
-> **Shadow Generation with Decomposed Mask Prediction and Attentive Shadow Filling**  [[dataset arXiv]](https://arxiv.org/pdf/2306.17358.pdf)<br>
+> **Shadow Generation with Decomposed Mask Prediction and Attentive Shadow Filling**  [[arXiv]](https://arxiv.org/pdf/2306.17358.pdf)<br>
 >
 > Xinhao Tao, Junyan Cao, Yan Hong, Li Niu
 >
