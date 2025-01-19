@@ -43,4 +43,4 @@ After filtering out low-quality tuples, we have 280,000 1080p tuples left. For d
 ## Other Resources
 
 + [Awesome-Object-Shadow-Generation](https://github.com/bcmi/Awesome-Object-Shadow-Generation)
-+ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion)
