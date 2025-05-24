@@ -22,7 +22,7 @@ We release the rendered shadow dataset used in the following paper:
 - 20 viewpoints(2D scene) for each 3D scene
 
 ## Downloads
-We provide the full dataset at [[Baidu_Cloud]](https://pan.baidu.com/s/1ZGQJLUGGDoA88MhV2T5sag) (access code: ck81) and [[OneDrive]](https://1drv.ms/f/s!AoAsEmY10BjHggCPx9_cUX22NMGe?e=6Gj7E9).
+We provide the full dataset at [[Baidu_Cloud]](https://pan.baidu.com/s/1ZGQJLUGGDoA88MhV2T5sag) (access code: ck81) and [[Dropbox]](https://www.dropbox.com/scl/fo/d2wpm6tuwx6x9klgdq9f9/ADGEjJWJQfgTRs3orG1nF54?rlkey=h2up90shkypb9z6f3d4ncc067&st=tnh4gexz&dl=0).
 
 ## Construction Pipeline
 
